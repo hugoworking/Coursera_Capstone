@@ -1,5 +1,5 @@
 #Write some markdown to explain that this notebook will be mainly used for the capstone project.
-###This notebook will be used for the Capstone Project.
+### This notebook will be used for the Capstone Project.
 
 #Import the pandas library as pd.
 import pandas as pd
